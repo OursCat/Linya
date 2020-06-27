@@ -1,0 +1,16 @@
+$primary-color: #414141;
+$secondary-color: #906272;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 10px;
+	width: 100vw;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+	font-family: 'Montserrat', sans-serif;
+}
